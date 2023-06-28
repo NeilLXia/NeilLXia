@@ -1,6 +1,6 @@
 ### <div align="center">I'm Neil, a software engineer located in the SF Bay Area.</div>  
   
-- 🗓️ I’m currently working on Tabisho. A mobile-event planning app where AirBnB's trip summary meets Facebook. 
+- 🗓️ I’m currently working on a browser chess game!
   
 - 🌱 My goals are to learn more about system-design and what it means to build products at a larger scale. 
   
