@@ -1,6 +1,6 @@
 ### <div align="center">I'm Neil, a software engineer located in the SF Bay Area.</div>  
   
-- 🗓️ I’m currently working on a browser chess game!
+- 🗓️ I’m currently working on a browser-based chess game to refine my state management skills!
   
 - 🌱 My goals are to learn more about system-design and what it means to build products at a larger scale. 
   
