@@ -1,6 +1,6 @@
 ### <div align="center">I'm Neil, a software engineer located in the SF Bay Area.</div>  
   
-- 🗓️ I recently built a chess game that uses JS Websockets / Django Channels to make new moves automatically push into the client. Check it out here: <a href="http://52.14.94.247:8000/"/>
+- 🗓️ I recently built a chess game that uses JS Websockets / Django Channels to make new moves automatically push into the client. Check it out <a href="http://52.14.94.247:8000/">here</a>.
   
 - 🌱 I am a impact and people-driven engineer that is looking to see tangible impact to projects on while working alongside brilliant-minded and warm individuals.  
   
